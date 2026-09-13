@@ -1,5 +1,19 @@
 # 💫 About Me:
-Myself Danish, cs grad - interests in problem solving, agentic and generative AI, automation ...
+BSCS Graduate | AI & Software Development | SaaS Workflows, Automation & Agentic AI Applications | AIOPS | LLMOPS
+
+My self Danish, I'm a Computer Science graduate with theoretical foundations in software development and a growing hands-on focus on AI-powered applications — built using a combination of technical understanding and modern AI development tools.
+
+Areas I work in:
+
+🔹 SaaS AI Workflows — Designing and building AI-integrated SaaS tools and features, from concept through working prototype.
+🔹 Agentic AI Applications — Building AI agents that can reason through multi-step tasks, make decisions, and take actions autonomously within a defined workflow.
+🔹 Automation Systems — Creating Python-based automation pipelines that eliminate repetitive manual work and connect tools/APIs into seamless processes.
+🔹 Chatbots & Research Tools — Developing conversational AI tools and research assistants that retrieve, summarize, and reason over information to support decision-making.
+🔹 AI-Augmented Development — Using AI coding tools strategically to accelerate development, while applying my own CS fundamentals to architect, debug, and validate every solution — nothing ships without me fully understanding how and why it works.
+
+I approach every project like an engineer: understanding the problem, designing the right system, and using every tool available — AI included — to build something that actually works and holds up under real use.
+
+If you're looking for a developer who's resourceful, fast-learning, and genuinely excited about AI-driven products and workflows, let's connect.
 
 
 ## 🌐 Socials:
