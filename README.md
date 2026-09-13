@@ -6,9 +6,13 @@ My self Danish, I'm a Computer Science graduate with theoretical foundations in 
 Areas I work in:
 
 🔹 SaaS AI Workflows — Designing and building AI-integrated SaaS tools and features, from concept through working prototype.
+
 🔹 Agentic AI Applications — Building AI agents that can reason through multi-step tasks, make decisions, and take actions autonomously within a defined workflow.
+
 🔹 Automation Systems — Creating Python-based automation pipelines that eliminate repetitive manual work and connect tools/APIs into seamless processes.
+
 🔹 Chatbots & Research Tools — Developing conversational AI tools and research assistants that retrieve, summarize, and reason over information to support decision-making.
+
 🔹 AI-Augmented Development — Using AI coding tools strategically to accelerate development, while applying my own CS fundamentals to architect, debug, and validate every solution — nothing ships without me fully understanding how and why it works.
 
 I approach every project like an engineer: understanding the problem, designing the right system, and using every tool available — AI included — to build something that actually works and holds up under real use.
