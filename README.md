@@ -1,39 +1,121 @@
-# 💫 About Me:
-AI & Software Development | SaaS Workflows, Automations & Agentic AI Applications | BSCS Graduate 
+<!-- Banner: hosted, so no local file needed -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,150,18&height=180&section=header&text=Danish%20Mehmood%20!&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-My self Danish, I'm a Computer Science graduate with theoretical foundations in computer science and software development and a growing hands-on focus on AI-powered applications built using a combination of technical understanding and modern AI development tools.
-
-Areas I work in:
-
-🔹 SaaS AI Workflows — Designing and building AI-integrated SaaS tools and features, from concept through working prototype.
-
-🔹 Agentic AI Applications — Building AI agents that can reason through multi-step tasks, make decisions, and take actions autonomously within a defined workflow.
-
-🔹 Automation Systems — Creating Python-based automation pipelines that eliminate repetitive manual work and connect tools/APIs into seamless processes.
-
-🔹 Chatbots & Research Tools — Developing conversational AI tools and research assistants that retrieve, summarize, and reason over information to support decision-making.
-
-🔹 AI-Augmented Development — Using AI coding tools strategically to accelerate development, while applying my own CS fundamentals to architect, debug, and validate every solution — nothing ships without me fully understanding how and why it works.
-
-I approach every project like an engineer: understanding the problem, designing the right system, and using every tool available — AI included — to build something that actually works and holds up under real use.
-
-If you're looking for a developer who's resourceful, fast-learning, and genuinely excited about AI-driven products and workflows, let's connect.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-m-khalid) 
-
-# 💻 Tech Stack & interests:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Idanish123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Idanish123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Idanish123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=2575FC&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Gen+AI+%26+LLM+Apps+%F0%9F%A4%96;Agentic+RAG+%26+AI+Agents+%F0%9F%A7%A0;SaaS+Workflows+%26+Automation+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Idanish123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 BSCS, KIET (Pakistan)  
+🤖 Building **agentic AI apps**, **SaaS AI workflows** and **Python automation pipelines**  
+🚀 Turning repetitive, multi-step work into reliable AI-powered systems  
+🤝 Open to freelance, collaboration and associate AI engineering roles Onsite & Remote  
+📍 Karachi, Pakistan
+
+---
+
+# 🌐 Contact
+
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-m-khalid)
+[![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishx951@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+
+---
+
+# 🛠️ What I Build
+
+| Area | What it means |
+|---|---|
+| 🤖 **Agentic AI Apps** | Agents that reason through multi-step tasks, make decisions and act inside a defined workflow |
+| 🔄 **SaaS AI Workflows** | AI-integrated tools and features, from concept to working prototype |
+| ⚙️ **Automation Systems** | Python pipelines that connect tools and APIs and replace manual work |
+| 💬 **Chatbots & Research Tools** | Assistants that retrieve, summarize and reason over information |
+
+---
+
+# 🚀 Featured Projects
+
+> AI, ML, and intelligent systems projects from my current work.
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **[sign-Language_app](https://github.com/Idanish123/sign-Language_app)** | A machine learning app for recognizing sign language and converting gestures into readable output. | Python · ML · Computer Vision | [Repo](https://github.com/Idanish123/sign-Language_app) |
+| **[rag-notebook](https://github.com/Idanish123/rag-notebook)** | A notebook-based RAG workflow for experimentation with LLMs, retrieval, and knowledge augmentation. | JavaScript · RAG · LLM | [Repo](https://github.com/Idanish123/rag-notebook) |
+| **[Synapse_AgenticAI-MarketResearchTool](https://github.com/Idanish123/Synapse_AgenticAI-MarketResearchTool)** | An agentic AI system designed to automate market research, trend analysis, and information gathering. | JavaScript · Agentic AI · APIs | [Repo](https://github.com/Idanish123/Synapse_AgenticAI-MarketResearchTool) |
+| **[numerical-computing_SecantRootFinder](https://github.com/Idanish123/numerical-computing_SecantRootFinder)** | A numerical computing project that applies the Secant method to solve nonlinear equations efficiently. | Python · Scientific Computing | [Repo](https://github.com/Idanish123/numerical-computing_SecantRootFinder) |
+| **[erp_ums](https://github.com/Idanish123/erp_ums)** | A backend-oriented ERP user management module focused on roles, permissions, and enterprise access control. | C# · .NET | [Repo](https://github.com/Idanish123/erp_ums) |
+| **[LIVE-SUBDOMAINS-ENUMERATION](https://github.com/Idanish123/LIVE-SUBDOMAINS-ENUMERATION)** | A security automation tool for enumerating live subdomains and supporting targeted recon workflows. | Shell · Bash · Security | [Repo](https://github.com/Idanish123/LIVE-SUBDOMAINS-ENUMERATION) |
+
+---
+# ⚡ Tech Stack & tools familiarity
+
+**AI Engineering (LLM apps)**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/Agentic_RAG-2575FC?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2575FC?style=flat-square)
+![LLMOps](https://img.shields.io/badge/LLMOps-2575FC?style=flat-square)
+
+**Languages, tools & frameworks**
+
+![](https://skillicons.dev/icons?i=py,fastapi,flask,django,git,llm)  
+![](https://skillicons.dev/icons?i=github,ai,flutter,dart,c#)    
+![](https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel)
+
+
+---
+
+# 🎓 Certifications
+
+| Certification | Issuer | Type |
+|---|---|---|
+| **Certified Ethical Hacker (CEH)** | National Vocational and Technical Training Commission (NAVTTC) | Certification |
+| **IBM - AI Forms and Function** | IBM | Course certificate |
+| **Cybersecurity Case Study Certificate** | Mastercard / Forage | Case-study certificate |
+| **Working as a Software Engineer at a Start Up** | Y Combinator / Forage | Job-simulation certificate |
+| **EY Technology Risk Job Simulation** | EY | Job-simulation certificate |
+| **Python Skill Test Certificate** | HackerRank | Skills-test certificate |
+| **Technology Virtual Experience Program** | Deloitte Australia | Virtual-experience certificate |
+| **Google Ads for Beginners** | Coursera | Course certificate |
+| **Intern School Art Competition 2016** | Lahore Grammar School DHA Karachi | Competition certificate |
+| **Inter Schools Declamation Contest 2017** | The Anchorage School | Competition certificate |
+| **Inter Schools Declamation Contest 2014** | The Anchorage School | Competition certificate |
+| **Marathon 2nd Position** | Pakistan Medical Association, Karachi | Award certificate |
+| **Pakistan Association of the Blind Awareness & Fund Raise** | Pakistan Association of the Blind (Sindh) | Participation certificate |
+
+---
+
+# 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| **Founder & Owner — Gaming Reselling Business; 2.5m+ in sales and approximately 10% profit** | DMK E STORE | 2025 - Present |
+| Managing Director | SK Organics | Feb 2019 - Present |
+| IT & Networking Intern, Technology Division | Shahnawaz Private Limited | Jan 2025 - Mar 2025 |
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idanish123&show_icons=true&theme=tokyonight&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idanish123&layout=compact&theme=tokyonight&locale=en)
+
+
+# 🎯 What I'm Working On
+
+- 🔭 Building agentic AI workflows that handle multi-step tasks end to end
+- 🌱 Learning & Going deeper on LLM tooling, retrieval and evaluation
+- 💡 Shipping small, useful AI tools with real demos
+- 🤝 Open to collaborating on practical AI products
+
+---
+
+# ⭐ Philosophy
+
+> I approach every project like an engineer: understand the problem, design the right system, and use every tool available, AI included, to build something that holds up under real use.
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,150,18&height=100&section=footer)
