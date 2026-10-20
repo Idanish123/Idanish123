@@ -1,5 +1,5 @@
 <!-- Banner: hosted, so no local file needed -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,150,18&height=180&section=header&text=Danish%20Mehmood%20!&fontSize=48&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Danish%20Mehmood%20!&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=2575FC&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Gen+AI+%26+LLM+Apps+%F0%9F%A4%96;Agentic+RAG+%26+AI+Agents+%F0%9F%A7%A0;SaaS+Workflows+%26+Automation+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -8,6 +8,7 @@
 # 👨‍💻 About Me
 
 🎓 BSCS, KIET (Pakistan)  
+🧠 Creative, Problem Solving and Entrepreneur mindset  
 🤖 Building **agentic AI apps**, **SaaS AI workflows** and **Python automation pipelines**  
 🚀 Turning repetitive, multi-step work into reliable AI-powered systems  
 🤝 Open to freelance, collaboration and associate AI engineering roles Onsite & Remote  
@@ -90,9 +91,8 @@
 
 | Role | Organization | Period |
 |---|---|---|
-| **Founder & Owner — Gaming Reselling Business; 2.5m+ in sales and approximately 10% profit** | DMK E STORE | 2025 - Present |
-| Managing Director | SK Organics | Feb 2019 - Present |
 | IT & Networking Intern, Technology Division | Shahnawaz Private Limited | Jan 2025 - Mar 2025 |
+| **Founder & Owner — Gaming Online Store; 2.5m+ in sales** | DMK STORE | 2025 - Present |
 
 ---
 
@@ -118,4 +118,5 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,150,18&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer)
+
